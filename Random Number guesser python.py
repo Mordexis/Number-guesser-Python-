@@ -1,5 +1,5 @@
 import random
-#This is a rock paper scissors game that I'm making for fun
+#This is a number guessing game that I'm making for fun
 #There's going to be two game modes: one where you guess a random number and one where the computer guesses
 
 def player_guessing():
